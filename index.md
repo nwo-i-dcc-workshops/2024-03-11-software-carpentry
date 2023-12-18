@@ -78,7 +78,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 <h2 id="general">General Information</h2>
 
-**Registration opens on May 23.**
+**Registration opens on January 8.**
 
 {% comment %}
 INTRODUCTION
